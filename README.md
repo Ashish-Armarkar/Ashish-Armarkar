@@ -1,4 +1,4 @@
-👋 Hi, I’m @Ashish-Armarkar
+👋 Hi, I’m Ashish Armarkar
 
 Frontend Developer (1.5+ yrs) building scalable React applications with clean, reusable, and performance-driven code using TypeScript & Redux.
 
