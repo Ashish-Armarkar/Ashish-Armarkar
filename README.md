@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Ashish-Armarkar
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me ashisharmarkar1999@gmail.com
+🚀 Frontend Developer (1.5+ yrs) building scalable React applications with clean, reusable, and performance-driven code using TypeScript & Redux.
 
-<!---
-Ashish-Armarkar/Ashish-Armarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Built dynamic form engines, real-time dashboards, and large-scale data systems (10K+ records).
+
+Now expanding into Node.js, Express & MongoDB to grow as a Full Stack Developer.
+
+Always learning. Always building. 💻✨
